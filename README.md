@@ -1,2 +1,2 @@
-# single-port-ram
+# dual-port-ram
 projects
